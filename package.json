@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jdhollander/jhollander.co.uk/issues"
   },
-  "homepage": "https://github.com/jdhollander/jhollander.co.uk#readme"
+  "homepage": "https://github.com/jdhollander/jhollander.co.uk#readme",
+  "dependencies": {
+    "dotenv-safe": "^4.0.3"
+  }
 }
